@@ -1,0 +1,9 @@
+<Application x:Class="OpenPhoneTool.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+        <!-- Theme resources will be loaded here -->
+        <ResourceDictionary Source="Themes/LightTheme.xaml"/>
+    </Application.Resources>
+</Application>
