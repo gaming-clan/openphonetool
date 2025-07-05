@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <data name="UnlockTab" xml:space="preserve"><value>Unlock</value></data>
+  <data name="WhatsAppTab" xml:space="preserve"><value>WhatsApp Transfer</value></data>
+  <data name="SettingsTab" xml:space="preserve"><value>Settings</value></data>
+  <data name="LogsTab" xml:space="preserve"><value>Logs</value></data>
+  <data name="UnlockTitle" xml:space="preserve"><value>Phone Unlock Tools</value></data>
+  <data name="UnlockAndroidBtn" xml:space="preserve"><value>Remove Android Screen Lock</value></data>
+  <data name="UnlockIOSBtn" xml:space="preserve"><value>Fastboot Factory Reset</value></data>
+  <data name="UnlockFRPBtn" xml:space="preserve"><value>Attempt FRP Bypass</value></data>
+  <data name="UnlockNote" xml:space="preserve"><value>Select device and operation. Some features require USB debugging or Fastboot mode.</value></data>
+  <data name="WATransferTitle" xml:space="preserve"><value>WhatsApp Data Transfer</value></data>
+  <data name="BackupWhatsAppAndroid" xml:space="preserve"><value>Backup WhatsApp (Android)</value></data>
+  <data name="RestoreWhatsAppAndroid" xml:space="preserve"><value>Restore WhatsApp (Android)</value></data>
+  <data name="BackupWhatsAppIOS" xml:space="preserve"><value>Backup WhatsApp (iOS)</value></data>
+  <data name="RestoreWhatsAppIOS" xml:space="preserve"><value>Restore WhatsApp (iOS)</value></data>
+  <data name="WANote" xml:space="preserve"><value>Backups use ADB (Android) or iTunes/libimobiledevice (iOS). Some operations require device trust/confirmation.</value></data>
+  <data name="SettingsTitle" xml:space="preserve"><value>Application Settings</value></data>
+  <data name="Theme" xml:space="preserve"><value>Theme</value></data>
+  <data name="Language" xml:space="preserve"><value>Language</value></data>
+  <data name="BackupDir" xml:space="preserve"><value>Backup Directory</value></data>
+  <data name="SelectBackupDir" xml:space="preserve"><value>Select Directory</value></data>
+  <data name="LoggingLevel" xml:space="preserve"><value>Logging Level</value></data>
+  <data name="LogsTitle" xml:space="preserve"><value>Application Logs</value></data>
+  <data name="ExportLogs" xml:space="preserve"><value>Export Logs</value></data>
+</root>

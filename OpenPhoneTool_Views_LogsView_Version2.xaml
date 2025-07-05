@@ -1,0 +1,12 @@
+<UserControl x:Class="OpenPhoneTool.Views.LogsView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+    <Grid Margin="16">
+        <StackPanel>
+            <TextBlock Text="Application Logs" FontWeight="Bold" FontSize="20"/>
+            <Separator Margin="0,10"/>
+            <ListBox x:Name="LogListBox" Height="280"/>
+            <Button Content="Export Logs" Margin="0,10"/>
+        </StackPanel>
+    </Grid>
+</UserControl>
